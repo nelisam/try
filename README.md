@@ -1,2 +1,2 @@
-# try
-Trying some css
+# project
+Turning Maven Academy into an e-commerce site
